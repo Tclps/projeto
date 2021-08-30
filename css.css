@@ -8,7 +8,7 @@
 ul {
     list-style: none;
     font-style: semi-bold;
-    font-size: 10px;
+    font-size: 20px;
 }
 a {
     text-decoration: none;
@@ -23,7 +23,7 @@ header {
     justify-content: space-around;
     align-items: center;
     padding: 10px;
-    box-shadow: 1px 1px 1px 1px #0c0c0c;
+    border-bottom: 3px dotted #000;
     margin-bottom: 50px;
  }
 
@@ -70,7 +70,7 @@ p {
     width: 80%;
     margin: 0 auto;
     padding: 25px;
-    border: thick double #050505;
+    border: dotted #050505;
     margin-top: 20px;
     display: grid; 
     gap: 15px;
